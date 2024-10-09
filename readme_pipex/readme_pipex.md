@@ -36,7 +36,7 @@ Con **Pipex**, este mismo proceso se puede ejecutar de la siguiente manera:
 
 ### 🔥 Bonus Features (¡Porque lo valgo! 😎)
 
-Además de las funcionalidades básicas de **Pipex**, he implementado algunas mejoras extra para hacerlo aún más versátil y potente. Estas características adicionales permiten manejar casos más complejos y hacer que el programa sea mucho más útil en escenarios avanzados.
+En la parte bonus del proyecto, el reto consistía en implementar mejoras adicionales para hacer **Pipex** aún más versátil y potente. Estas características extra permiten manejar casos más complejos, haciendo que el programa sea mucho más útil en escenarios avanzados.
 
 #### 1. Soporte para múltiples pipes
 
