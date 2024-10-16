@@ -65,3 +65,12 @@ Este comando ejecutará `comando1`, tomando la entrada directamente desde el ter
 Es equivalente a ejecutar:
 
 ![ejemplo](readme_pipex/img10.png)
+
+
+### 🔍 Recomendaciones
+
+**Tutorial 'Unix Processes in C'**
+
+https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&si=DhEz8WBiRqflR0b1
+
+
