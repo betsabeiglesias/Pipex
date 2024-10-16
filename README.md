@@ -32,7 +32,7 @@ Esto toma el contenido de `infile`, lo pasa por `cat`, y luego cuenta las línea
 
 Con **Pipex**, este mismo proceso se puede ejecutar de la siguiente manera:
 
-![ejemplo](readme_pipex/img6.png))
+![ejemplo](readme_pipex/img6.png)
 
 ### 🔥 Bonus Features (¡Porque lo valgo! 😎)
 
